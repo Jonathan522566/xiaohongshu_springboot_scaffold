@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+jwt:
+  # 签发人
+  issuer: newone
+  # 密钥
+  secret: WB71oBeYcSXWgk0f+GbX2msY0Jh0QNOU3Nn0NfUaDeDddCAzgesMWunIlUv95qYbaWnK2F1hOKvsaU3P0gCR3A==
